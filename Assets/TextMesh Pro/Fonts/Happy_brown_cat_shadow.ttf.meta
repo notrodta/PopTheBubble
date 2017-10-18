@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eff155357be2f534c99ea7b52e3ffdcd
+timeCreated: 1507862157
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Happy brown cat shadow
+  fontNames:
+  - Happy brown cat shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
