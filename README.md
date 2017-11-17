@@ -6,6 +6,7 @@ A version of the game can be downloaded here: <https://notrodta.itch.io/popthebu
 ## Instruction
 
 Pressing on the colored buttons will pop the corresponding bubble with the same color on the screen.
+You will also get different powerups you can use over time.
   * `Q` Red Button
   * `W` Blue Button
   * `O` Green Button
