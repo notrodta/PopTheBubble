@@ -6,6 +6,10 @@ A version of the game can be downloaded here: <https://notrodta.itch.io/popthebu
 ## Instruction
 
 Pressing on the colored buttons will pop the corresponding bubble with the same color on the screen.
+  * `Q` Red Button
+  * `W` Blue Button
+  * `O` Green Button
+  * `P` Yellow Button
 
 ## Preview
 
